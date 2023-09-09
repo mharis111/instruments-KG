@@ -6,7 +6,7 @@ mine_awi.py is used to extract the metadata of instrument from AWI repository, a
 
 mine_datacite.py implements the functionality to retrieve instruments metadata and linked datasets information, and also add the information in ORKG.
 
-BERT_NER.py trains the model for NER using.
+BERT_NER.py trains the model for NER.
 
 
 
